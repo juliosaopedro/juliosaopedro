@@ -8,7 +8,7 @@
       </path>
     </svg>
   </a>
-  Sobre mim
+  About
 </h2>
 <blockquote>
 <ul>
