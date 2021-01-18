@@ -11,12 +11,15 @@
   About
 </h2>
 <blockquote>
-<ul>
-<li> Data Scientist 
-<li> SQL Developer 
-<li> Mathematician Teacher
-</ul>
 
+I'm a Data Scientist, in Brasília-DF, starting my career.
+
+* Graduation in Mathematics at UNICEUB.
+* Specialization in Systems Analysis by COMPUSERV.
+* SQL developer.
+* Passionate about Python.
+  
+  
 </blockquote>
 
 <h2>
