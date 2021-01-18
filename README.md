@@ -14,8 +14,7 @@
 <ul>
 <li> Data Scientist 
 <li> SQL Developer 
-<li> Python 
-<li> Mathematics 
+<li> Mathematician Teacher
 </ul>
 
 </blockquote>
@@ -34,7 +33,6 @@
 <ul>
 <li> T-SQL 
 <li> Python 
-<li> Mathematics 
 </ul>
 </blockquote>
 <!--
