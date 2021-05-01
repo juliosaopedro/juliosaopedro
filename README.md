@@ -3,7 +3,7 @@
   
 # **Hi, I'm Julio Cesar** 👩‍💻 👋 
 ###  
-![GitHub Logo](ju1_git.png)  
+![GitHub Logo](avatar_julio.jpg)  
 
 <h2>
   <a id="user-content-sobre-mim" class="anchor" ariahidden="true" href="#sobre-mim">
