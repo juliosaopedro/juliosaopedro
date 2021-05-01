@@ -1,7 +1,7 @@
 <html>
 <body>
   
-# **Hi, I'm Julio Cesar** 👩‍💻 👋 
+# **Hi, I'm Julio Cesar**
 ###  
 <h2>
   <a id="user-content-sobre-mim" class="anchor" ariahidden="true" href="#sobre-mim">
