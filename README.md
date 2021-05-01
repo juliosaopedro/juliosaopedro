@@ -1,10 +1,10 @@
-
+<html>
+<body>
   
 # **Hi, I'm Julio Cesar** 👩‍💻 👋 
 ###  
-![GitHub Logo](avatar_julio.jpg)  
-<html>
-<body>
+<img src="avatar_julio.jpg"/>  
+
 <h2>
   <a id="user-content-sobre-mim" class="anchor" ariahidden="true" href="#sobre-mim">
     <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
