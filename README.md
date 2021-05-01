@@ -42,7 +42,7 @@ I'm a Data Scientist, in Brasília-DF, starting my career.
 <li> Power BI
 </ul>
 </blockquote>
-<!--
+
 </blockquote>
 <h2>
   <a id="user-content-stack" class="anchor" aria-hidden="true" href="#stack">
@@ -51,11 +51,26 @@ I'm a Data Scientist, in Brasília-DF, starting my career.
     </path>
     </svg>
   </a>
-  Onde me encontrar
+  My Projects
 </h2>
 
 <blockquote>
 
+<ul>
+<li> Analisando os dados do Airbnb - Cidade de Buenos Aires:** https://bit.ly/2QGims0
+<li> Análise exploratória das doenças cardiovasculares:** https://bit.ly/2qqjfdx
+<li> Comparação entre métricas para análise das doenças cardiovasculares:** https://bit.ly/35yIB7Z 
+<li> Análise da violência na cidade do Rio de Janeiro:** https://bit.ly/35p7Edi
+<li> Previsão de notas do ENEM 2016:** https://bit.ly/3aStj0Q
+<li> Crawler no Linkedin;** https://bit.ly/3h13xvh
+</ul>
+
+Internet Projects
+<ul>
+<li> Machine Learning - São Paulo :** https://murmuring-badlands-80592.herokuapp.com/  
+</ul>
+</blockquote>
+<!--
 <a href="https://www.linkedin.com/in/julio-sao-pedro/">
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="20" role="img" aria-label="Linkedin: Julio Sao Pedro"><title>Linkedin: Julio Sao Pedro</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="150" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="55" height="20" fill="#555"/><rect x="55" width="95" height="20" fill="#007ec6"/><rect width="150" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="285" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="450">Linkedin</text><text x="285" y="140" transform="scale(.1)" fill="#fff" textLength="450">Linkedin</text><text aria-hidden="true" x="1015" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="850">Julio Sao Pedro</text><text x="1015" y="140" transform="scale(.1)" fill="#fff" textLength="850">Julio Sao Pedro</text></g></svg>
 <a>
