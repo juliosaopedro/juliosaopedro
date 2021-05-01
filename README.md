@@ -3,7 +3,7 @@
   
 # **Hi, I'm Julio Cesar** 👩‍💻 👋 
 ###  
-<img src="avatar_julio.jpg"/>  
+<img src="https://github.com/juliosaopedro/juliosaopedro/blob/main/Avatar_Julio.jpg" />
 
 <h2>
   <a id="user-content-sobre-mim" class="anchor" ariahidden="true" href="#sobre-mim">
