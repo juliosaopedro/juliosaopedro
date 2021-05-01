@@ -75,11 +75,11 @@ Internet Projects
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="20" role="img" aria-label="Linkedin: Julio Sao Pedro"><title>Linkedin: Julio Sao Pedro</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="150" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="55" height="20" fill="#555"/><rect x="55" width="95" height="20" fill="#007ec6"/><rect width="150" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="285" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="450">Linkedin</text><text x="285" y="140" transform="scale(.1)" fill="#fff" textLength="450">Linkedin</text><text aria-hidden="true" x="1015" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="850">Julio Sao Pedro</text><text x="1015" y="140" transform="scale(.1)" fill="#fff" textLength="850">Julio Sao Pedro</text></g></svg>
 <a>
 
-
+<!--
 Estatisticas
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juliosaopedro)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 </body>
 </html>
   
