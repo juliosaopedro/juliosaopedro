@@ -57,12 +57,12 @@ I'm a Data Scientist, in Brasília-DF, starting my career.
 <blockquote>
 
 <ul>
-<li> Analisando os dados do Airbnb - Cidade de Buenos Aires:** https://bit.ly/2QGims0
-<li> Análise exploratória das doenças cardiovasculares:** https://bit.ly/2qqjfdx
-<li> Comparação entre métricas para análise das doenças cardiovasculares:** https://bit.ly/35yIB7Z 
-<li> Análise da violência na cidade do Rio de Janeiro:** https://bit.ly/35p7Edi
-<li> Previsão de notas do ENEM 2016:** https://bit.ly/3aStj0Q
-<li> Crawler no Linkedin;** https://bit.ly/3h13xvh
+<li> EDA Airbnb - Buenos Aires: https://bit.ly/2QGims0
+<li> EDA Heart Diseases: https://bit.ly/2qqjfdx
+<li> Metrics Comparison Heart Diseases: https://bit.ly/35yIB7Z 
+<li> Violence Analysis Rio de Janeiro: https://bit.ly/35p7Edi
+<li> ENEM 2016: https://bit.ly/3aStj0Q
+<li> Crawler Linkedin: https://bit.ly/3h13xvh
 </ul>
 
 Internet Projects
