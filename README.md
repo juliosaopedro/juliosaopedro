@@ -87,7 +87,7 @@ Internet Projects
 <!--
 Estatisticas
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juliosaopedro)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juliosaopedro)](https://github.com/anuraghazra/github-readme-stats)
 -->
 </body>
 </html>
