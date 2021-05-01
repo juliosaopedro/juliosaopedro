@@ -36,6 +36,7 @@ I'm a Data Scientist, in Brasília-DF, starting my career.
 <ul>
 <li> T-SQL 
 <li> Python 
+<li> SAS
 </ul>
 </blockquote>
 <!--
