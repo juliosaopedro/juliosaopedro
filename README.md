@@ -63,11 +63,12 @@ I'm a Data Scientist, in Brasília-DF, starting my career.
 <li> Violence Analysis Rio de Janeiro: https://bit.ly/35p7Edi
 <li> ENEM 2016: https://bit.ly/3aStj0Q
 <li> Crawler Linkedin: https://bit.ly/3h13xvh
+<li> Previsão de Diabetes: https://bityli.com/OZvMo
 </ul>
 
 Internet Projects
 <ul>
-<li> Machine Learning - São Paulo :** https://murmuring-badlands-80592.herokuapp.com/  
+<li> Machine Learning - São Paulo : https://murmuring-badlands-80592.herokuapp.com/  
 </ul>
 </blockquote>
 <!--
