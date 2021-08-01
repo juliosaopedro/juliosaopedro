@@ -64,7 +64,7 @@ I'm a Data Scientist, in Brasília-DF, starting my career.
 <li> ENEM 2016: https://bit.ly/3aStj0Q
 <li> Crawler Linkedin: https://bit.ly/3h13xvh
 <li> Previsão de Diabetes: https://bityli.com/OZvMo
-<li> Clustering Heart Diseases :  https://bityli.com/cDHHb 
+<li> Clustering Heart Diseases :  https://tinyurl.com/hv8s7ew6
 </ul>
 
 Internet Projects
