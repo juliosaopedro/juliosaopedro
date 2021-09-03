@@ -65,6 +65,7 @@ I'm a Data Scientist, in Brasília-DF, starting my career.
 <li> Crawler Linkedin: https://bit.ly/3h13xvh
 <li> Previsão de Diabetes: https://bityli.com/OZvMo
 <li> Clustering Heart Diseases :  https://tinyurl.com/hv8s7ew6
+<li> Hackaton IESB (EDA-Sample Fitness Polar) : https://bit.ly/3teC2nN
 </ul>
 
 Internet Projects
